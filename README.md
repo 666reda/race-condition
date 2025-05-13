@@ -8,6 +8,3 @@ Small python script to test and exploit web-based race condition vulnerabilities
 
 I wrote this script in a hurry with my friend [Sphyn3X](https://github.com/Sphyn3X), hope someone will come later and modify it so the HTTP requests will be sent on the same TCP connection.
 
-
-
-*PS : I love you Asmae*
